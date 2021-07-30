@@ -5,7 +5,7 @@
 
 Namų darbas nr. 5 BIT Javascript mokymuose (pradžios data: 2021 m. birželio 21 d.);<br>
 Publikuota: [Namų darbas nr. 5: „Adidas_malkos“](https://algis1978.github.io/4-sign-up/)
-Palyginimasis dizainas: [Sign-Up](https://cdn.discordapp.com/attachments/850245533838868480/850247489620541491/unknown.png)
+Palyginimasis dizainas: [Adidas](https://cdn.discordapp.com/attachments/850245533838868480/850247489620541491/unknown.png)
 
 # Mokymų detalės:
 
