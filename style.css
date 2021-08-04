@@ -1,20 +1,61 @@
+body {
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 #Adidas_logo {
  width: 64px;
 }
 aside img {
 width: 32px;
 }
-.container {
+.bar1 {
+    background-color: rgba(155, 21, 21, 0.904);
+    width: 20%;
+    height:36px;
+    border-radius: 2px;
+    color: ghostwhite;
+}
+.bar1a {
+    background-color: rgba(19, 18, 18, 0.904);
+    height: 36px;px;
+    width: 70%;
+    border-radius: 2px;
+    color: ghostwhite;
+    text-align: center;
+    font-size: 16;
+    line-height: 36px;
+}
+.bar2 {
     background-color: rgb(192, 192, 192);
     width: 15%;
     height:4px;
     border-radius: 15px;
 }
-
-.skill {
+.bar2a {
     background-color: rgba(155, 21, 21, 0.904);
     height:4px;
     width: 30%;
     border-radius: 15px;
+}
+#apsipirkite_bar {
+    width: 20%;
+}
+#apsipirkite {
+    display: inline-block;
+    padding-left: 10%;
+    padding-right: 10%;
+    color: seashell;
+    line-height: 36px;
+    background-color: rgba(155, 21, 21, 0.904);
+    float: left;
+}
+#arrow {
+    display: inline-block;
+    padding-left: 5%;
+    padding-right: 5%;
+    line-height: 36px;
+    color: seashell;
+    background-color: rgba(26, 24, 24, 0.904);
+    float: left;
 }
   
