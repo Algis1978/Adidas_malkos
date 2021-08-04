@@ -1,0 +1,20 @@
+#Adidas_logo {
+ width: 64px;
+}
+aside img {
+width: 32px;
+}
+.container {
+    background-color: rgb(192, 192, 192);
+    width: 15%;
+    height:4px;
+    border-radius: 15px;
+}
+
+.skill {
+    background-color: rgba(155, 21, 21, 0.904);
+    height:4px;
+    width: 30%;
+    border-radius: 15px;
+}
+  
