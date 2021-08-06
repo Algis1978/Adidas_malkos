@@ -13,7 +13,6 @@ a {
 header {
     background-color: burlywood;
     height: 48px;
-
 }
 header *{
     display: inline-block;
@@ -30,7 +29,7 @@ header *{
 nav{
     width: 440px;
     padding-left: 160px;
-    padding-top: 6px;
+    padding-top: 4px;
     float: left;
     align-items: center;
     text-align: center;
@@ -71,12 +70,23 @@ section{
     width: 400px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     float: left;
+    margin-top: 4%;
 }
 aside {
     background-color: rgb(205, 202, 216);
-    float: left;
+    float: right;
+    margin-right: 60px;
+    margin-top: 10%;
+}
+aside p {
+    margin:0;
+}
+aside img {
+    width: 14px;
 }
 #adidasmalkos{
+    margin-top: 0;
+    margin-bottom: 0;
     font-size: 48px;
     color: rgb(146, 5, 5);
 }
@@ -84,9 +94,6 @@ section p{
     font-size: 16px;
     color: rgb(107, 107, 107);
     font-weight: bolder;
-}
-aside img {
-    width: 14px;
 }
 #apsipirkite_bar {
     width: 40%;
@@ -111,6 +118,9 @@ aside img {
 }
 footer {
     clear: both;
+    margin-left: 60px;
+}
+#barlabel {
 }
 #barlabel *{
     display: inline-block;
@@ -127,4 +137,7 @@ footer {
     height:4px;
     width: 30%;
     border-radius: 15px;
+}
+#sesi {
+    margin-left: 108px;
 }
