@@ -87,6 +87,8 @@ aside {
 }
 aside p {
     margin:0;
+    color: rgb(146, 5, 5, 0);
+    text-shadow: 0px 0px 10px rgb(146, 5, 5);
 }
 aside img {
     width: 18px;
