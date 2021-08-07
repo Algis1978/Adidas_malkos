@@ -36,12 +36,15 @@ header *{
     float: left;
 }
 nav{
-    width: 50%;
-    padding-left: 20%;
+    width: 55%;
+    padding-left: 10%;
     padding-top: 4px;
     float: left;
     align-items: center;
     text-align: center;
+}
+nav a:hover{
+    color: rgb(146, 5, 5);
 }
 ul{
     /* background-color: darkgray; */
@@ -65,7 +68,10 @@ ul *{
 .material-icons {
     color: white;
     font-size: 18px;
-    padding-left: 4px;
+    padding-left: 6px;
+}
+#texticons a:hover {
+    font-size: 20px;
 }
 Main{
     padding-left: 6%;
@@ -92,6 +98,14 @@ aside p {
 }
 aside img {
     width: 18px;
+    margin: 2px;
+}
+aside img:hover {
+   background-color: rgb(105, 197, 13);
+}
+aside img {
+    width: 18px;
+    margin: 2px;
 }
 #adidasmalkos{
     margin-top: 0;
@@ -105,7 +119,7 @@ section p{
     font-weight: bolder;
 }
 #apsipirkite_bar {
-    width: 40%;
+    width: 50%;
 }
 #apsipirkite {
     display: inline-block;
@@ -118,12 +132,16 @@ section p{
 }
 #arrow {
     display: inline-block;
-    padding-left: 5%;
-    padding-right: 5%;
+    padding-left: 6%;
+    padding-right: 6%;
     line-height: 36px;
     color: seashell;
     background-color: rgba(26, 24, 24, 0.904);
     float: left;
+}
+#arrow:hover{
+    background-color: rgb(22, 21, 21);
+    color: rgb(236, 240, 11);
 }
 footer {
     clear: both;
@@ -139,7 +157,7 @@ footer {
 }
 .bar2 {
     background-color: rgb(177, 177, 177);
-    width: 14%;
+    width: 18%;
     height:4px;
     border-radius: 15px;
 }
@@ -150,7 +168,7 @@ footer {
     border-radius: 15px;
 }
 #sesi {
-    margin-left: 11%;
+    margin-left: 15%;
 }
 #vienas {
     margin-left: 2px;
