@@ -59,6 +59,9 @@ ul *{
     color: rgb(146, 5, 5);
     font-weight: bold;
 }
+#pradzia>a:hover{
+    font-size: 13px;
+}
 #texticons {
     /* background-color: rosybrown; */
     float: right;
